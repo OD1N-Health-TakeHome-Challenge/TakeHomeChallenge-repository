@@ -15,7 +15,7 @@ Select the appropriate AWS Database type for what is required of the App from yo
 
 Write out your steps in point form of how you did this and why you chose to make the decisions you made in a word document.
 
-### Challenge Summaary
+## Challenge Summaary
 
 The details about how to maintain and use branches would be wrote in the word document.
 
